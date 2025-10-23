@@ -1,4 +1,7 @@
 # 3-Segment-Robotic-Arm
+A custom deisgned 3 segment robotic arm powered by ESP-32 microcontrollers communicating via ESP-NOW, a peer to peer wireless protocol. This project implements
+FreeRTOS on both the master (transmitter) and slave (receiver) to cordinate concurent tasks that include servo movement and postioning of each segment,communication, and arm rotation. 
+This approach pair with 2 joysticks allows us to provide the user with a smooth, low latency control.
 
 
 *created by: Bryan Diaz & Junior Ortega | Focus: Embedded Systems, Wireless communication, Real time control system*
