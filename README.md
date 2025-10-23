@@ -17,6 +17,7 @@ On the slave (receiver) side FreeRTOS manages tasks for recieving transmitted da
 - 28BYJ-48 Stepper Motor [rotation of arm]
 - Power bank (5000 MaH)
 - Joystick Module (X2) [controller]
+- Push button [push down = claw close | at rest = claw open]
 - Soldering of through hole components
 
 ## Software Related
