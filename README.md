@@ -13,8 +13,7 @@ On the slave (receiver) side, FreeRTOS manages tasks for recieving transmitted d
 ## Hardware Related
 - ESP-32 (X2)
 - SG90 Servo Motor (X2)
-- MG666R 55G Servo Motor (X2)
-- 28BYJ-48 Stepper Motor [rotation of arm]
+- MG666R 55G Servo Motor (X3) [General arm movement & rotation of arm]
 - Power bank (5000 MaH)
 - Joystick Module (X2) [controller]
 - Push button [push down = claw close | at rest = claw open]
