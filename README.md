@@ -33,3 +33,6 @@ On the slave (receiver) side, FreeRTOS manages tasks for recieving transmitted d
 - Openable/Closable claw driven by servo spinning custom formatted gears
 
 # System Preview
+<img src = "https://github.com/user-attachments/assets/d0c9b69d-662f-447e-bfa6-bb6984774b79" width = "550" height = "550"/> 
+<img src = "https://github.com/user-attachments/assets/0e1427a4-85f2-4eb5-a8f7-caf046437817" width = "550" height = "550"/> 
+
